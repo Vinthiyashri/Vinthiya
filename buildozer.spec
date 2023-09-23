@@ -1,4 +1,5 @@
 [app]
+android.max\_app\_size = 100mb
 
 # (str) Title of your application
 title = My Application
